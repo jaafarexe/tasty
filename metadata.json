@@ -1,0 +1,6 @@
+{
+  "name": "Tasty Recipes",
+  "description": "A warm, modern recipe app featuring recipe discovery, category filtering, scalable ingredient measurements, interactive step-by-step cooking guides, favorites, and a smart shopping list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
